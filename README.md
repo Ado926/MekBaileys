@@ -20,7 +20,7 @@ Creado con amor por **SoyMaycol** UwU â™¡
 ## InstalaciÃ³n
 
 ```bash
-npm install maybaileys
+npm install MayBailyes
 ```
 
 ## Uso
