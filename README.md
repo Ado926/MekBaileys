@@ -1,9 +1,5 @@
 <h1><img alt="Baileys logo" src="https://files.catbox.moe/k7x02e.png" height="75"/></h1>
 
-![NPM Downloads](https://img.shields.io/npm/dw/%40whiskeysockets%2Fbaileys?label=npm&color=%23CB3837)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/whiskeysockets/baileys)
-![Discord](https://img.shields.io/discord/725839806084546610?label=discord&color=%235865F2)
-
 # MayBaileys
 
 Â¡Hola! Este es un fork personalizado del proyecto [Baileys](https://github.com/WhiskeySockets/Baileys).  
@@ -17,10 +13,10 @@ Creado con amor por **SoyMaycol** UwU â™¡
 - AÃ±adir soporte a comandos dinÃ¡micos desde carpetas
 - Integrar futuras APIs como SYAHosting o MayAPI
 
-## InstalaciÃ³n
+## Instalacion
 
 ```bash
-npm install MayBailyes
+npm install maybailyes
 ```
 
 ## Uso
