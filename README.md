@@ -4,7 +4,28 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/whiskeysockets/baileys)
 ![Discord](https://img.shields.io/discord/725839806084546610?label=discord&color=%235865F2)
 
-Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.
+# MayBaileys
 
-# Usage
-A new guide has been posted at https://baileys.wiki.
+Â¡Hola! Este es un fork personalizado del proyecto [Baileys](https://github.com/WhiskeySockets/Baileys).  
+Mi idea es entender el core de WhatsApp Web API y aÃ±adir mis mejoras o adaptaciones personales para futuros proyectos.  
+Creado con amor por **SoyMaycol** UwU â™¡
+
+## Objetivos
+
+- Aprender el funcionamiento interno del protocolo WA Web
+- Personalizar la arquitectura para futuros bots
+- AÃ±adir soporte a comandos dinÃ¡micos desde carpetas
+- Integrar futuras APIs como SYAHosting o MayAPI
+
+## InstalaciÃ³n
+
+```bash
+npm install maybaileys
+```
+
+## Uso
+Una nueva guia esta¡ disponible en: https://baileys.wiki
+
+---
+
+> Proyecto basado en el trabajo increÃ­ble de [@WhiskeySockets](https://github.com/WhiskeySockets/Baileys)
