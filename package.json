@@ -31,11 +31,11 @@
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "async-mutex": "^0.5.0",
     "axios": "^1.6.0",
-    "axios-cookiejar-support": "^1.x.x",  <-- ¡Aquí está el paquete añadido!
+    "axios-cookiejar-support": "^1.0.1",
     "libsignal": "github:ds6/sgn",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
-    "pino": "^9.6",
+    "pino": "^9.6.0",
     "protobufjs": "^7.2.4",
     "ws": "^8.13.0",
     "node-cache": "^5.1.2"
