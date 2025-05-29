@@ -40,7 +40,8 @@
     "ws": "^8.13.0",
     "node-cache": "^5.1.2",
     "fast-average-color-node": "^1.4.0",
-    "canvas": "^2.11.2"
+    "canvas": "^2.11.2",
+    "chalk": "^5.3.0"
   },
   "devDependencies": {
     "@types/jest": "^27.5.1",
